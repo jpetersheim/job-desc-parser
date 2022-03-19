@@ -1,0 +1,129 @@
+client,department,role,role_type,segment,section,item,segment_sequence,section_sequence,item_sequence
+Veritas Press,IT,IT Specialist,Contributor,ABOUT THE COMPANY,NONE,Veritas Press is a Christian organization dedicated to providing the best classical Christian education materials and services anywhere. We are in need of an IT Specialist with experience in website management and development.,10,0,10
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Description,Assist Technology Department by maintaining web applications and the Veritas Press technological environment.,20,10,10
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Location,"Work Location: 1805 Olde Homestead Lane Lancaster, PA 17601",20,20,10
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Location,Office Hours: 8:00 am to 5:00 pm,20,20,20
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Category,Full-time,20,30,10
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Category,"Hourly, non-exempt",20,30,20
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Work Schedule,Monday through Friday during office hours,20,40,10
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Work Schedule,Extra hours required based on business and customer needs,20,40,20
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Work Schedule,Variable scheduling with flexible options,20,40,30
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Remote,No,20,50,10
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Compensation,"$40,000 to $50,000",20,60,10
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,General Responsibilities,Provide direct support to external customers using the company’s SaaS product to assist them in troubleshooting browser and system issues.,30,10,10
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,General Responsibilities,Provide traditional helpdesk support to internal customers to assist them in using the company’s hardware and software systems.,30,10,20
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,General Responsibilities,"Assist the IT manager in troubleshooting and maintaining the company’s IT infrastructure (MS Active Directory, Linux, Networking, and a variety of enterprise software systems)",30,10,30
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Systems,Maintain Veritas Press technological environment as directed,30,20,10
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Systems,"Configure, maintain, and continuously improve client computer systems",30,20,20
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Systems,Upgrade systems as directed,30,20,30
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Systems,Secure systems within business requirements,30,20,40
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Service,"Provide excellent service to all families, teachers, and staff.",30,30,10
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Service,"Including: prompt professional communications, friendly cheerful attitude, resolution to issues",30,30,20
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Service,Provide technical support for client computer hardware and software,30,30,30
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Service,Seek assistance from the IT Manager if unable to resolve a problem,30,30,40
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Service,Be available for on-call support as needed,30,30,50
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Service,Support users by generating instructional documentation,30,30,60
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Help Desk,Ensure all routine issues reported to IT are resolved within 24 hours.,30,40,10
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Help Desk,Communicate any non-routine issues to the requestor within 24 hours and provide an estimated schedule of completion.,30,40,20
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Help Desk,Complete any non-routine issues on time.,30,40,30
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Help Desk,Seek assistance on any issues that cannot be resolved from the IT Manager,30,40,40
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Troubleshooting,Resolve technical issues by:,30,50,10
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Troubleshooting,Clarifying the concern,30,50,20
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Troubleshooting,Determining the cause of the problem,30,50,30
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Troubleshooting,Selecting and explaining the best solution to solve the problem,30,50,40
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Troubleshooting,Expediting correction or adjustment,30,50,50
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Troubleshooting,Following up to ensure resolution.,30,50,60
+Veritas Press,IT,IT Specialist,Contributor,EDUCATION,Degrees,HS Diploma or equivalent,40,10,10
+Veritas Press,IT,IT Specialist,Contributor,EDUCATION,Degrees,Bachelor’s degree in a technology discipline preferred,40,10,20
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Minimum Requirements,Experience in Windows and Linux system administration,50,10,10
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Minimum Requirements,Knowledge of Windows Active Directory administration,50,10,20
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Minimum Requirements,Conversant with the reformed faith and classical Christian education according to the VSA Statement of Faith and Philosophy.,50,10,30
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE","Preferred Knowledge, Skills",Excellent written and oral communication skills.,50,20,10
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE","Preferred Knowledge, Skills",Able to maintain courteous and professional disposition when dealing with customers.,50,20,20
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE","Preferred Knowledge, Skills","Expert in MS Office suite products, G Suite for business products",50,20,30
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE","Preferred Knowledge, Skills",Excellent troubleshooting ability,50,20,40
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE","Preferred Knowledge, Skills",Work to constantly expand abilities by gaining further training in areas of weakness.,50,20,50
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Preferred Experience,"Experience to business class computer administration (Active Directory and Windows Server environment management, ERP Systems)",50,30,10
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Technology,Windows (client and server),50,40,10
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Technology,Dell PC hardware,50,40,20
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Technology,Mac OS,50,40,30
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Technology,Linux,50,40,40
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Technology,Anti-virus (various clients),50,40,50
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Technology,"Firewall (Windows, Mac, and others)",50,40,60
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Technology,"Browsers: Chrome, Firefox, Edge, and others",50,40,70
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Technology,Adobe Connect,50,40,80
+Veritas Press,IT,IT Specialist,Contributor,PHYSICAL DEMANDS,Environment / Exposure,Working in standard office conditions with and near electronics,60,10,10
+Veritas Press,IT,IT Specialist,Contributor,PHYSICAL DEMANDS,Required Activities,"Standing, walking and sitting for long periods of time",60,20,10
+Veritas Press,IT,IT Specialist,Contributor,PHYSICAL DEMANDS,Required Activities,Extensive typing on QWERTY style keyboard,60,20,20
+Veritas Press,IT,IT Specialist,Contributor,PHYSICAL DEMANDS,Required Activities,Extensive viewing of lighted computer monitor,60,20,30
+Veritas Press,IT,IT Specialist,Contributor,PHYSICAL DEMANDS,Required Activities,Speaking and Hearing,60,20,40
+Veritas Press,IT,IT Specialist,Contributor,PHYSICAL DEMANDS,Required Activities,Reaching and bending,60,20,50
+Veritas Press,IT,IT Specialist,Contributor,PHYSICAL DEMANDS,Required Activities,Lifting up to 50 lbs,60,20,60
+Veritas Press,IT,IT Specialist,Contributor,PHYSICAL DEMANDS,Required Activities,Using hands to perform tasks,60,20,70
+Veritas Press,IT,IT Specialist,Contributor,BENEFITS,NONE,"Healthcare – Medical, Dental, and Vision with company contributions",70,0,10
+Veritas Press,IT,IT Specialist,Contributor,BENEFITS,NONE,Paid Time Off – starts at 3 weeks,70,0,20
+Veritas Press,IT,IT Specialist,Contributor,BENEFITS,NONE,Tuition and product discounts for family,70,0,30
+Veritas Press,IT,IT Specialist,Contributor,ABOUT THE COMPANY,NONE,Veritas Press is a Christian organization dedicated to providing the best classical Christian education materials and services anywhere. We are in need of an IT Specialist with experience in website management and development.,10,0,10
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Description,Assist Technology Department by maintaining web applications and the Veritas Press technological environment.,20,10,10
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Location,"Work Location: 1805 Olde Homestead Lane Lancaster, PA 17601",20,20,10
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Location,Office Hours: 8:00 am to 5:00 pm,20,20,20
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Category,Full-time,20,30,10
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Category,"Hourly, non-exempt",20,30,20
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Work Schedule,Monday through Friday during office hours,20,40,10
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Work Schedule,Extra hours required based on business and customer needs,20,40,20
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Work Schedule,Variable scheduling with flexible options,20,40,30
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Remote,No,20,50,10
+Veritas Press,IT,IT Specialist,Contributor,DETAILS,Compensation,"$40,000 to $50,000",20,60,10
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,General Responsibilities,Provide direct support to external customers using the company’s SaaS product to assist them in troubleshooting browser and system issues.,30,10,10
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,General Responsibilities,Provide traditional helpdesk support to internal customers to assist them in using the company’s hardware and software systems.,30,10,20
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,General Responsibilities,"Assist the IT manager in troubleshooting and maintaining the company’s IT infrastructure (MS Active Directory, Linux, Networking, and a variety of enterprise software systems)",30,10,30
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Systems,Maintain Veritas Press technological environment as directed,30,20,10
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Systems,"Configure, maintain, and continuously improve client computer systems",30,20,20
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Systems,Upgrade systems as directed,30,20,30
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Systems,Secure systems within business requirements,30,20,40
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Service,"Provide excellent service to all families, teachers, and staff.",30,30,10
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Service,"Including: prompt professional communications, friendly cheerful attitude, resolution to issues",30,30,20
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Service,Provide technical support for client computer hardware and software,30,30,30
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Service,Seek assistance from the IT Manager if unable to resolve a problem,30,30,40
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Service,Be available for on-call support as needed,30,30,50
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Service,Support users by generating instructional documentation,30,30,60
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Help Desk,Ensure all routine issues reported to IT are resolved within 24 hours.,30,40,10
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Help Desk,Communicate any non-routine issues to the requestor within 24 hours and provide an estimated schedule of completion.,30,40,20
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Help Desk,Complete any non-routine issues on time.,30,40,30
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Help Desk,Seek assistance on any issues that cannot be resolved from the IT Manager,30,40,40
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Troubleshooting,Resolve technical issues by:,30,50,10
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Troubleshooting,Clarifying the concern,30,50,20
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Troubleshooting,Determining the cause of the problem,30,50,30
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Troubleshooting,Selecting and explaining the best solution to solve the problem,30,50,40
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Troubleshooting,Expediting correction or adjustment,30,50,50
+Veritas Press,IT,IT Specialist,Contributor,RESPONSIBILITIES,Troubleshooting,Following up to ensure resolution.,30,50,60
+Veritas Press,IT,IT Specialist,Contributor,EDUCATION,Degrees,HS Diploma or equivalent,40,10,10
+Veritas Press,IT,IT Specialist,Contributor,EDUCATION,Degrees,Bachelor’s degree in a technology discipline preferred,40,10,20
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Minimum Requirements,Experience in Windows and Linux system administration,50,10,10
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Minimum Requirements,Knowledge of Windows Active Directory administration,50,10,20
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Minimum Requirements,Conversant with the reformed faith and classical Christian education according to the VSA Statement of Faith and Philosophy.,50,10,30
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE","Preferred Knowledge, Skills",Excellent written and oral communication skills.,50,20,10
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE","Preferred Knowledge, Skills",Able to maintain courteous and professional disposition when dealing with customers.,50,20,20
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE","Preferred Knowledge, Skills","Expert in MS Office suite products, G Suite for business products",50,20,30
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE","Preferred Knowledge, Skills",Excellent troubleshooting ability,50,20,40
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE","Preferred Knowledge, Skills",Work to constantly expand abilities by gaining further training in areas of weakness.,50,20,50
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Preferred Experience,"Experience to business class computer administration (Active Directory and Windows Server environment management, ERP Systems)",50,30,10
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Technology,Windows (client and server),50,40,10
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Technology,Dell PC hardware,50,40,20
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Technology,Mac OS,50,40,30
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Technology,Linux,50,40,40
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Technology,Anti-virus (various clients),50,40,50
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Technology,"Firewall (Windows, Mac, and others)",50,40,60
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Technology,"Browsers: Chrome, Firefox, Edge, and others",50,40,70
+Veritas Press,IT,IT Specialist,Contributor,"KNOWLEDGE, SKILLS, AND EXPERIENCE",Technology,Adobe Connect,50,40,80
+Veritas Press,IT,IT Specialist,Contributor,PHYSICAL DEMANDS,Environment / Exposure,Working in standard office conditions with and near electronics,60,10,10
+Veritas Press,IT,IT Specialist,Contributor,PHYSICAL DEMANDS,Required Activities,"Standing, walking and sitting for long periods of time",60,20,10
+Veritas Press,IT,IT Specialist,Contributor,PHYSICAL DEMANDS,Required Activities,Extensive typing on QWERTY style keyboard,60,20,20
+Veritas Press,IT,IT Specialist,Contributor,PHYSICAL DEMANDS,Required Activities,Extensive viewing of lighted computer monitor,60,20,30
+Veritas Press,IT,IT Specialist,Contributor,PHYSICAL DEMANDS,Required Activities,Speaking and Hearing,60,20,40
+Veritas Press,IT,IT Specialist,Contributor,PHYSICAL DEMANDS,Required Activities,Reaching and bending,60,20,50
+Veritas Press,IT,IT Specialist,Contributor,PHYSICAL DEMANDS,Required Activities,Lifting up to 50 lbs,60,20,60
+Veritas Press,IT,IT Specialist,Contributor,PHYSICAL DEMANDS,Required Activities,Using hands to perform tasks,60,20,70
+Veritas Press,IT,IT Specialist,Contributor,BENEFITS,NONE,"Healthcare – Medical, Dental, and Vision with company contributions",70,0,10
+Veritas Press,IT,IT Specialist,Contributor,BENEFITS,NONE,Paid Time Off – starts at 3 weeks,70,0,20
+Veritas Press,IT,IT Specialist,Contributor,BENEFITS,NONE,Tuition and product discounts for family,70,0,30
