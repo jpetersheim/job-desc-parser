@@ -12,6 +12,8 @@ docx2txt = "^0.8"
 spacy = "^3.2.3"
 docx2python = "^2.0.4"
 pdfminer = "^20191125"
+tk = "^0.1.0"
+python-docx = "^0.8.11"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

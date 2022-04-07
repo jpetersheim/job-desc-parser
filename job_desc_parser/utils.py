@@ -5,6 +5,7 @@ import os
 # import spacy
 import pandas as pd
 from docx2python import docx2python
+from docx import Document
 
 # from spacy.matcher import Matcher
 from pdfminer.converter import TextConverter
@@ -141,3 +142,43 @@ def pHR_tmplt_to_tbl(text_list):
     temp_df["section"] = temp_df["section"].str.replace("<h5>", "")
     temp_df["section"] = temp_df["section"].str.replace("</h5>", "")
     return temp_df
+
+
+def docx_to_info(file_path_ext):
+    document = Document(file_path_ext)
+    # print(document)
+    # print(document.paragraphs)
+    print("-----------DOC OUTPUT------------")
+    print("Text: " + document.paragraphs[0].runs[0].text)
+    print(
+        "First Line Indent: "
+        + str(document.paragraphs[0].style.paragraph_format.first_line_indent)
+    )
+    print(
+        "Page Break Before: "
+        + str(document.paragraphs[0].style.paragraph_format.page_break_before)
+    )
+    print(
+        "Left Indent: " + str(document.paragraphs[0].style.paragraph_format.left_indent)
+    )
+    print(
+        "Line Spacing: "
+        + str(document.paragraphs[0].style.paragraph_format.line_spacing)
+    )
+    print(
+        "Space After (inches): "
+        + str(document.paragraphs[0].style.paragraph_format.space_after.inches)
+    )
+    print(
+        "Space Before (inches): "
+        + str(document.paragraphs[0].style.paragraph_format.space_before.inches)
+    )
+    print("Alignment: " + str(document.paragraphs[0].paragraph_format.alignment))
+    print("Style: " + str(document.paragraphs[0].style.name))
+    print("PG Style Font: " + str(document.paragraphs[0].style.font.name))
+    print("PG Style Font Size: " + str(document.paragraphs[0].style.font.size.pt))
+    print("PG Style Bold: " + str(document.paragraphs[0].style.font.bold))
+    print("PG Style Italic: " + str(document.paragraphs[0].style.font.italic))
+    print("PG Style Underline: " + str(document.paragraphs[0].style.font.underline))
+    print("---------END DOC OUTPUT----------")
+    return
